@@ -16,9 +16,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-        <!-- metric -->
-        <metric.version>2.0.1-SNAPSHOT</metric.version>
-
         <!-- guava -->
         <guava.version>28.1-jre</guava.version>
 
