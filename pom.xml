@@ -63,6 +63,9 @@
         <slf4j.version>1.7.26</slf4j.version>
         <log4j.version>2.12.0</log4j.version>
 
+        <!-- annotation -->
+        <auto-service.version>1.0-rc6</auto-service.version>
+
         <!-- unit test -->
         <junit-jupiter.version>5.4.2</junit-jupiter.version>
         <spring-test.version>5.1.8.RELEASE</spring-test.version>
@@ -274,6 +277,13 @@
                 <version>${log4j.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
+            </dependency>
+
+            <!-- annotation -->
+            <dependency>
+                <groupId>com.google.auto.service</groupId>
+                <artifactId>auto-service</artifactId>
+                <version>${auto-service.version}</version>
             </dependency>
 
             <!-- unit test -->
