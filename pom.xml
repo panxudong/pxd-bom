@@ -54,7 +54,7 @@
         <carrera.version>2.0.3-SNAPSHOT</carrera.version>
 
         <!-- other -->
-        <fastjson.version>1.2.67</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <lombok.version>1.18.10</lombok.version>
         <jxls.version>2.6.0</jxls.version>
         <jxls-poi.version>1.2.0</jxls-poi.version>
