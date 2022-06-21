@@ -44,7 +44,7 @@
         <spring-boot-admin.version>2.2.0</spring-boot-admin.version>
 
         <!-- middleware sdk -->
-        <mysql.version>8.0.17</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <mybatis.version>2.1.0</mybatis.version>
         <jedis.version>2.9.3</jedis.version>
         <lettuce.version>5.1.8.RELEASE</lettuce.version>
