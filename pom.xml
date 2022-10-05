@@ -48,7 +48,7 @@
         <mybatis.version>2.1.0</mybatis.version>
         <jedis.version>2.9.3</jedis.version>
         <lettuce.version>5.1.8.RELEASE</lettuce.version>
-        <elasticsearch.version>7.1.1</elasticsearch.version>
+        <elasticsearch.version>7.14.0</elasticsearch.version>
         <influxdb.version>2.15</influxdb.version>
         <etcd.version>0.3.0</etcd.version>
         <carrera.version>2.0.3-SNAPSHOT</carrera.version>
